@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajan kumar</h1>
 <h3 align="center">Computer Science student building practical Machine Learning, Deep Learning and AI projects through hands-on learning.</h3>
 
-- 🌱 I’m currently learning **Machine Learning fundamentals, data preprocessing, and model evaluation.**
+- 🌱 I have knowledge of **Machine Learning fundamentals, Exploratory Data Analysis (EDA), data preprocessing, model evaluation, and building Machine Learning (ML) and Deep Learning (DL) models.**
 
 - 📫 How to reach me **rajankumarmu1439@gmail.com**
 
